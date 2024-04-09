@@ -3,8 +3,7 @@
     "version": "1.0.1",
     "description": "XRBIT DRIVER BOARD FOR MICROBIT",
     "dependencies": {
-        "core": "*",
-        "bluetooth": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
